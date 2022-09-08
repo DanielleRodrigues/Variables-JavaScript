@@ -1,7 +1,10 @@
 # Variables-JavaScript
-nome: string
-sobrenome: string
-peso: number
-altura: number
-dataDeInternacao: number
-diabético: boolean
+<ol>
+    <li>nome: string</li>
+    <li>sobrenome: string</li>
+    <li>peso: number</li>
+    <li>altura: number</li>
+   <li>dataDeInternacao: number</li>
+  <li>diabético: boolean</li>
+  
+</ol>
